@@ -30,7 +30,7 @@ Describe your target population, sampling frame, sampling units, and observation
 - The observational units for this survey are the survey responses from each employee, their position within the company (a feature that will let us focus on the responses from entry and lower-level employees) and the changes reported by employees that would improve their satisfaction. 
 
 Your 5-10 question survey:
-```
+
 1. What department do you work in? 
 2. What is your position at the company? (Ex. Entry, mid-senior, senior, C-suite)
 3. On a scale from 1-10, how satisfied are you at this company?
