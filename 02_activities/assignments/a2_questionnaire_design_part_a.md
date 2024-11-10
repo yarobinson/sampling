@@ -16,31 +16,30 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `1`
 
 Describe the purpose of your survey:
-```
-write your answer here...
-```
+
+The purpose of my survey is to determine the cause of the high turnover rate within the company especially within entry and lower-level positions and identify what changes employees need to improve employee satisfaction. 
 
 Describe your target population, sampling frame, sampling units, and observational units:
-```
-write your answer here...
-```
+
+- The target population is all employees within the tech company with a focus on those in entry or lower-level positions. 
+- The sampling frame is a list of all employees within the company with information on their positions and departments within the company
+- The sampling units are the employees within the company who will be receiving the survey
+- The observational units for this survey are the survey responses from each employee, their position within the company (a feature that will let us focus on the responses from entry and lower-level employees) and the changes reported by employees that would improve their satisfaction. 
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
-```
+1. What department do you work in? 
+2. What is your position at the company? (Ex. Entry, mid-senior, senior, C-suite)
+3. On a scale from 1-10, how satisfied are you at this company?
+4. On a scale from 1-10, how satisfied are you in your role?
+5. From least likely to most likely, how likely are you to consider leaving the company? 
+6. From the choices below (select all that apply), where do you think the company needs to improve? (Ex. culture, processes, compensation)
+7. Please explain why you think the company needs to improve in this/these area(s)
+8. On a scale from 1-10, if these areas are improved, would it improve your satisfaction at work? 
+9. Please provide any additional feedback you may have
 
 ## Rubric
 
