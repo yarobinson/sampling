@@ -1,13 +1,13 @@
 # Assignment: Questionnaire Design (Part B)
 
 ## Requirements
-1. Comment on the quality of your sample. Do you expect it to be representative of your target population? Why or why not?
+## 1. Comment on the quality of your sample. Do you expect it to be representative of your target population? Why or why not?
 
     I think that the quality of my sample is representative of the target population, which is the employees of the tech company with a focus on those in entry or lower-level positions. However, there are outside factors that could decrease the quality of my sample. For example, if the employee lists that are being used to identify respondents are not up to date or include incorrect information, employees who could be important to the survey may be excluded.
 
 Ensuring that employee lists are up to date and include correct information will help to maintain the quality of the sample. 
 
-2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
+## 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
 
 Based on what we covered, there are a few changes that I would make to my original survey. 
 
@@ -46,7 +46,7 @@ Due date of the survey
 9. Please provide any additional feedback you may have
 
 
-3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
+## 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
 No, I don't think that this survey could have been fulfilled through an observational study. The point of this survey is to answer specific questions; why is turnover happening and what changes need to occur to improve employee satisfaction? 
 
