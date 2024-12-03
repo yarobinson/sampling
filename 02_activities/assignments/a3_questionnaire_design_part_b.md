@@ -3,7 +3,7 @@
 ## Requirements
 ## 1. Comment on the quality of your sample. Do you expect it to be representative of your target population? Why or why not?
 
-    I think that the quality of my sample is representative of the target population, which is the employees of the tech company with a focus on those in entry or lower-level positions. However, there are outside factors that could decrease the quality of my sample. For example, if the employee lists that are being used to identify respondents are not up to date or include incorrect information, employees who could be important to the survey may be excluded.
+I think that the quality of my sample is representative of the target population, which is the employees of the tech company with a focus on those in entry or lower-level positions. However, there are outside factors that could decrease the quality of my sample. For example, if the employee lists that are being used to identify respondents are not up to date or include incorrect information, employees who could be important to the survey may be excluded.
 
 Ensuring that employee lists are up to date and include correct information will help to maintain the quality of the sample. 
 
